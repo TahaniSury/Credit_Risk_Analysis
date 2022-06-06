@@ -20,26 +20,26 @@
 
  ### Naive Random Oversampling
  
- ![naive]()
+ ![naive](https://github.com/TahaniSury/Credit_Risk_Analysis/blob/main/Images/naive.png)
 
 ### SMOTE Oversampling
 
- ![smote]()
+ ![smote](https://github.com/TahaniSury/Credit_Risk_Analysis/blob/main/Images/smote.png)
  
 ### Undersampling
 
- ![undersampling]()
+ ![undersampling](https://github.com/TahaniSury/Credit_Risk_Analysis/blob/main/Images/undersampling.png)
 
 ### Combination Under-Over Sampling
 
- ![combinateion-sampling]()
+ ![combinateion-sampling](https://github.com/TahaniSury/Credit_Risk_Analysis/blob/main/Images/combinateion-sampling.png)
 
 ### Balanced Random Forest Classifier
 
- ![imbalanced]()
+ ![imbalanced](https://github.com/TahaniSury/Credit_Risk_Analysis/blob/main/Images/imbalanced.png)
 
 ### Easy Ensemble AdaBoost Classifier
 
- ![easy-ensemble]()
+ ![easy-ensemble](https://github.com/TahaniSury/Credit_Risk_Analysis/blob/main/Images/easy-ensemble.png)
 
 
