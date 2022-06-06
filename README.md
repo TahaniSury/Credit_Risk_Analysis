@@ -19,15 +19,27 @@
 ## Results:
 
  ### Naive Random Oversampling
-
-
+ 
+ ![naive]()
 
 ### SMOTE Oversampling
 
+ ![smote]()
+ 
 ### Undersampling
+
+ ![undersampling]()
 
 ### Combination Under-Over Sampling
 
+ ![combinateion-sampling]()
+
 ### Balanced Random Forest Classifier
+
+ ![imbalanced]()
+
+### Easy Ensemble AdaBoost Classifier
+
+ ![easy-ensemble]()
 
 
