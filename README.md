@@ -40,6 +40,4 @@
 
 ### Easy Ensemble AdaBoost Classifier
 
- ![easy-ensemble](https://github.com/TahaniSury/Credit_Risk_Analysis/blob/main/Images/easy-ensemble.png)
-
-
+ ![easy-ensemble](https://github.com/TahaniSury/Credit_Risk_Analysis/blob/main/Images/easy-ensemble..png)
